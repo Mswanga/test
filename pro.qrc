@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/photo">
+        <file>new/plane.png</file>
+        <file>new/plane1.png</file>
+        <file>new/back.jpeg</file>
+        <file>new/Pao(1).png</file>
+    </qresource>
+</RCC>
